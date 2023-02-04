@@ -1,0 +1,7 @@
+# requirement
+##python
+tested in python3.6
+## graphviz
+sudo apt install graphviz
+or
+conda install graphviz

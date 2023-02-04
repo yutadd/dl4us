@@ -2,3 +2,4 @@ IPython
 tensorflow-gpu
 matplotlib
 pydotplus
+sklearn

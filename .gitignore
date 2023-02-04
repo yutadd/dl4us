@@ -1,6 +1,5 @@
 # dataset
-lesson3/data/*
-lesson4/data/*
+lesson3/data/ECG*
 # toru34
 .DS_Store
 
